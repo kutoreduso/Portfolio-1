@@ -3,7 +3,7 @@ const NavbarSection = () => {
     <>
       <div className="flex flex-nowrap relative justify-between md:p-5 p-5 font-satoshi font-bold container mx-auto items-center">
         <h1 className="uppercase tracking-tighter">
-          Kurt.Cantiga
+          CreativeArch
         </h1>
 
         <div className="flex">

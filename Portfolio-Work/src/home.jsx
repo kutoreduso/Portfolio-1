@@ -3,7 +3,7 @@ import NavbarSection from "./components/navbar"
 import IntroSection from "./components/introduction"
 import ServiceSection from "./components/service"
 import ProjectSection from "./components/project"
-
+import ContactSection from "./components/contact"
 const HomeSection = () => {
 
     return(
@@ -13,6 +13,7 @@ const HomeSection = () => {
         <IntroSection/>
         <ServiceSection/>
         <ProjectSection/>
+        <ContactSection/>
         </>
     )
 

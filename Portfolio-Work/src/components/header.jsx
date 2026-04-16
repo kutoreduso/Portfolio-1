@@ -29,10 +29,10 @@ const HeaderSection = () => {
         <>
         <div ref={containerRef} className="p-5 md:p-12 lg:p-16">
       <h1 className="headersplit uppercase font-semibold font-satoshi lg:text-9xl lg:w-10 leading-none w-10 text-6xl md:text-8xl">
-        Project Name
+         Creative Arch
       </h1>
     </div>
-        <div className="lg:w-300 md:w-150 mx-auto aspect-auto lg:mt-2 lg:h-140 overflow-hidden h-80">
+        <div className="imgappear lg:w-300 md:w-150 mx-auto aspect-auto lg:mt-2 lg:h-140 overflow-hidden h-80">
   <img 
     src="/img/2.jpg" 
     alt="Project Image"
